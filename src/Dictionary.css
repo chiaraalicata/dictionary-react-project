@@ -1,14 +1,46 @@
+.Dictionary {
+  position: relative;
+  color: #7dd67b;
+}
+
+.Dictionary h1 {
+  font-size: 25px;
+  font-style: bold;
+  text-align: center;
+  margin: 10px;
+}
+
+.Dictionary section {
+  color: #333;
+  border: 1px solid hsl(0, 0%, 79%);
+  border-radius: 30px;
+  margin: 15px auto;
+  padding: 6px 20px;
+}
+.Dictionary .searching-form {
+  background: rgba(130, 223, 129, 0.57);
+}
 .search-engine {
-  width: 500px;
-  line-height: 30px;
+  width: 90%;
   background: #fffefe;
   border: 1px solid #c9c9c9;
   border-radius: 15px;
+  margin-top: 20px;
+  padding: 8px;
 }
 
 .Results {
-  text-align: center;
+  position: relative;
+  top: 20px;
+  padding: 30px;
 }
 .meaning {
+  position: relative;
   text-align: center;
+  padding: 20px;
+}
+
+.Dictionary .hint {
+  font-size: 12px;
+  margin: 5px;
 }
