@@ -56,11 +56,7 @@ export default function Dictionary(props) {
                 />
               </div>
               <div className="col-3">
-                <input
-                  type="submit"
-                  value="Search"
-                  className="btn search-engine"
-                />
+                <input type="submit" value="👀" className="btn search-engine" />
               </div>
             </div>
           </form>
