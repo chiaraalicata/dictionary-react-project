@@ -20,7 +20,7 @@
   background: rgba(130, 223, 129, 0.57);
 }
 .search-engine {
-  width: 100%;
+  max-width: 90%;
   background: #fffefe;
   border: 1px solid #c9c9c9;
   border-radius: 15px;
