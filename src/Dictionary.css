@@ -11,6 +11,7 @@
 .Dictionary section {
   color: #333;
   border: 1px solid hsl(0, 0%, 79%);
+  box-shadow: 3px 3px 8px 1px #80c77f73;
   border-radius: 30px;
   margin: 15px auto;
   padding: 6px 20px;
@@ -19,7 +20,7 @@
   background: rgba(130, 223, 129, 0.57);
 }
 .search-engine {
-  width: 90%;
+  width: 100%;
   background: #fffefe;
   border: 1px solid #c9c9c9;
   border-radius: 15px;
@@ -39,4 +40,16 @@
 .Dictionary .hint {
   font-size: 12px;
   margin: 5px;
+}
+
+.Dictionary .btn {
+  max-width: 60%;
+  background: #83b882;
+  border-radius: 15px;
+  transition: all 150ms ease-in-out;
+}
+
+.Dictionary .btn:hover {
+  background: rgb(177, 204, 152);
+  color: #5c8b5c;
 }

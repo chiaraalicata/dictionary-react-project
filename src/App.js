@@ -15,7 +15,22 @@ function App() {
           <Dictionary defaultKeyword="lime" />
         </main>
         <footer className="App-footer">
-          <small>Coded by Chiara Alicata</small>
+          This project is coded by{" "}
+          <a
+            href="https://www.linkedin.com/in/chiara-alicata-9b0529177/"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            Chiara Alicata
+          </a>{" "}
+          and it is open-sourced on{" "}
+          <a
+            href="https://github.com/chiaraalicata/react-weather-project-app"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            GitHub
+          </a>
         </footer>
       </div>
     </div>
