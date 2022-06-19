@@ -12,7 +12,7 @@ function App() {
           <img src={Vector} className="App-logo vector img-fluid" alt="logo" />
         </header>
         <main>
-          <Dictionary />
+          <Dictionary defaultKeyword="lime" />
         </main>
         <footer className="App-footer">
           <small>Coded by Chiara Alicata</small>

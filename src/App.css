@@ -1,17 +1,19 @@
+.App {
+  max-width: 960px;
+  margin: 0 auto;
+}
+
 .App-logo {
   max-width: 250px;
   display: block;
   margin: 0 auto;
 }
-
 .vector {
   margin-bottom: 50px;
 }
-
 .App-header {
   margin: 80px 0;
 }
-
 .App-footer {
   text-align: center;
   font-size: 12px;

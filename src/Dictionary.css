@@ -2,14 +2,12 @@
   position: relative;
   color: #7dd67b;
 }
-
 .Dictionary h1 {
   font-size: 25px;
   font-style: bold;
   text-align: center;
   margin: 10px;
 }
-
 .Dictionary section {
   color: #333;
   border: 1px solid hsl(0, 0%, 79%);
@@ -28,7 +26,6 @@
   margin-top: 20px;
   padding: 8px;
 }
-
 .Results {
   position: relative;
   top: 20px;
@@ -39,7 +36,6 @@
   text-align: center;
   padding: 20px;
 }
-
 .Dictionary .hint {
   font-size: 12px;
   margin: 5px;
