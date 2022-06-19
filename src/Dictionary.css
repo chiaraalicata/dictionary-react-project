@@ -43,7 +43,7 @@
 }
 
 .Dictionary .btn {
-  max-width: 80%;
+  max-width: 100%;
   background: #83b882;
   border-radius: 15px;
   transition: all 150ms ease-in-out;
